@@ -6,5 +6,9 @@ NEW:
 * Crouching
 * walks slow while crouched
 * can only crouch when standing
+* accelerates realisticly
+* cant falling down crouched
+* cant jump while crouched
+* can sprint while holding shift
 
 All rights reserved.
