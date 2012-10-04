@@ -10,5 +10,11 @@ NEW:
 * cant falling down crouched
 * cant jump while crouched
 * can sprint while holding shift
+* Moving_platform
+* New_map for testing
+* 
+*
+*
+*
 
 All rights reserved.
